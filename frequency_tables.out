@@ -1,0 +1,185 @@
+
+### Aluminium/Aluminum ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+====================================================================================================
+Total                    |             867199|            4462797|            5329996|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Colour/Color ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+====================================================================================================
+Total                    |            7457057|           24542717|           31999774|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Flexitime/Flextime ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+====================================================================================================
+Total                    |                 22|              46034|              46056|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Grey/Gray ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+====================================================================================================
+Total                    |            4526468|           12620759|           17147227|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Mum/Mom ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+====================================================================================================
+Total                    |              92269|            2713372|            2805641|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Aluminium/Aluminum ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+British Aluminium        |             324006|            1275017|            1599023|
+American Aluminum        |             543193|            3187780|            3730973|
+====================================================================================================
+Total                    |             867199|            4462797|            5329996|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Colour/Color ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+British Colour           |            2867914|            7079422|            9947336|
+American Color           |            4589143|           17463295|           22052438|
+====================================================================================================
+Total                    |            7457057|           24542717|           31999774|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Flexitime/Flextime ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+British Flexitime        |                 22|              21069|              21091|
+American Flextime        |                  0|              24965|              24965|
+====================================================================================================
+Total                    |                 22|              46034|              46056|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Grey/Gray ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+British Grey             |            1924397|            4842807|            6767204|
+American Gray            |            2602071|            7777952|           10380023|
+====================================================================================================
+Total                    |            4526468|           12620759|           17147227|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Mum/Mom ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+British Mum              |              59571|             507572|             567143|
+American Mom             |              32698|            2205800|            2238498|
+====================================================================================================
+Total                    |              92269|            2713372|            2805641|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Aluminium/Aluminum ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+British Aluminium        |             324006|            1275017|            1599023|
+American Aluminum        |             543193|            3187780|            3730973|
+====================================================================================================
+Total                    |             867199|            4462797|            5329996|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Colour/Color ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+British Colour           |            2867914|            7079422|            9947336|
+American Color           |            4589143|           17463295|           22052438|
+====================================================================================================
+Total                    |            7457057|           24542717|           31999774|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Flexitime/Flextime ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+British Flexitime        |                 22|              21069|              21091|
+American Flextime        |                  0|              24965|              24965|
+====================================================================================================
+Total                    |                 22|              46034|              46056|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Grey/Gray ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+British Grey             |            1924397|            4842807|            6767204|
+American Gray            |            2602071|            7777952|           10380023|
+====================================================================================================
+Total                    |            4526468|           12620759|           17147227|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
+
+### Mum/Mom ###
+
+Frequency words          |        Before 1945|         After 1945|              Total|
+====================================================================================================
+British Mum              |              59571|             507572|             567143|
+American Mom             |              32698|            2205800|            2238498|
+====================================================================================================
+Total                    |              92269|            2713372|            2805641|
+Running Fischer's Exact test because the expected frequency is to low.
+oddsratio: nan
+p-value: 1.0
+There is no significant difference. The hypothesis accepted.
